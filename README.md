@@ -1,4 +1,4 @@
-# Steganography - Photo Encrypter
+# Steganographer
 > Creation Date: December, 2021
 ## Description
 The purpose of the project entitled “Steganography” is to encrypt secret message into image and 

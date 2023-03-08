@@ -1,7 +1,7 @@
 # Steganographer
 > Creation Date: December, 2021
 ## Description
-The purpose of the project entitled “Steganography” is to encrypt secret message into image and 
+The purpose of the project entitled “Steganographer” is to encrypt secret message into image and 
 decrypt secret message by getting that image from source, to avoid security issues and to be able 
 to communicate in terms of emergency without letting undesirable individuals know the contents 
 of the original message.

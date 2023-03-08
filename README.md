@@ -1,10 +1,7 @@
 # Steganographer
 > Creation Date: December, 2021
 ## Description
-The purpose of the project entitled “Steganographer” is to encrypt secret message into image and 
-decrypt secret message by getting that image from source, to avoid security issues and to be able 
-to communicate in terms of emergency without letting undesirable individuals know the contents 
-of the original message.
+The "Steganographer" project's goal was to avoid security concerns and make it possible to communicate in an emergency without disclosing the contents of the original message to unfavourable parties by encrypting secret messages into images and decrypting them by obtaining those images from the source.
 
 > To learn more about the project, click [HERE](https://github.com/muhammadowaismushtaq/Steganography/blob/f7d683b83ac6eebe91c1450d5c5a7b5032d97d8f/IS-Final%20Report.pdf).
 
